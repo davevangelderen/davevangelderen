@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on [Reverb Projects](dawda)
+- 🔭 I’m currently working on [Reverb Projects]
 
 - 👨‍💻 All of my projects are available at [-](-)
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Online Marketing, -> SEO**
 
-- 📫 How to reach me **dawdadada@dawdawda.com**
+- 📫 How to reach me ****
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/d](https://www.linkedin.com/in/d)
 
