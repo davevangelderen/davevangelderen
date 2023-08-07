@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Online Marketing, -> SEO**
 
-- 📫 How to reach me -> <a href="mailto:info@reverbmedia.nl">info@reverbmedia.nl/a>
+- 📫 How to reach me -> <a href="mailto:info@reverbmedia.nl">info@reverbmedia.nl</a>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/davevangelderen/](https://www.linkedin.com/in/davevangelderen/)
 
