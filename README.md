@@ -15,8 +15,5 @@
 
 - ⚡ Fun fact **ba dum tss**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
