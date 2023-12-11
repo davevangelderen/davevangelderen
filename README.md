@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Reverb Projects]
 
-- 👨‍💻 All of my projects are available at [-](-)
+- 👨‍💻 All of my projects are available at [-]
 
 - 📝 I regularly write articles on [-](-)
 
