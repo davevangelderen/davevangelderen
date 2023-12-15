@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [-](-)
 
-- 💬 Ask me about **Online Marketing, -> SEO**
+- 💬 Ask me about **Online Marketing, -> SEO*
 
 - 📫 How to reach me -> <a href="mailto:dave@reverbmedia.nl">dave@reverbmedia.nl</a>
 
